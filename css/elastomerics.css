@@ -1,0 +1,30 @@
+/*---------------------
+*	TESTING ONLY 
+*-----------------------*/
+header, footer{
+	background-color:yellow;
+}
+
+/*----------------------
+*	Main Menu
+*-----------------------*/
+
+menu ul{
+	float:left;
+	display:block;
+}
+
+ul.menuContainer li {
+  display: inline;
+  padding: 3px;
+  margin: 6px;
+}
+
+/*-------------------------
+*	Main Content
+*--------------------------*/
+
+.container{
+	max-width:1208px;
+	margin:auto;
+}

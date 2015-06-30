@@ -1,0 +1,26 @@
+#caseFoot{
+	overflow:visible;
+	position:relative;
+	clear:both;
+	bottom:70px;
+	margin:15px 10%;
+	font-size:8pt;
+	line-height:1.5;
+}
+#connFoot{
+	overflow:visible;
+	position:relative;
+	clear:both;
+	bottom:12px;
+	margin:15px 20%;
+	padding-left:40px;
+	font-size:8pt;
+	line-height:1.5;
+}
+.karlButton{
+	margin-top:0.5%;
+}
+#whyFoot{
+	top:90%;
+	margin:15px 9%;
+}

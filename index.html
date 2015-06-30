@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="ui-mobile" data-enhance="false">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Landing</title>
+
+    <!-- Bootstrap core CSS -->
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+	<!-- <link href="css/jquery.mobile-1.4.5.css" rel="stylesheet"/> -->
+	<link href="css/elastomerics.css" rel="stylesheet">
+	
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.js"></script>
+
+	<script src="js/dc.js"></script>
+	<script src="js/elastomerics.js"></script>
+	<script src="js/ie10-viewport-bug-workaround.js"></script>
+	
+	<!-- <script src="js/jquery.mobile-1.4.5.min.js"></script> -->
+	<script src="js/pdf/pdf.js"></script>
+
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	  <link href="css/clariaIE8.css" rel="stylesheet" type="text/css"/>
+    <![endif]-->
+
+    <!--<script type="text/javascript" src="http://mediaelementjs.com/js/mejs-2.16.3/mediaelement-and-player.min.js"></script>
+    <script>
+        jQuery(document).ready(function($) {
+            var player = new MediaElementPlayer('#player1');
+        });
+    </script>-->
+</head>
+<body>
+	<header >
+		<div id="headContainer" class="container">		
+			
+			<menu>
+				<ul class="menuContainer">
+					<li class="menuItem">Home</li>
+					<li class="menuItem">Value</li>
+					<li class="menuItem">Products</li>
+					<li class="menuItem">Stability Data</li>
+					<li class="menuItem">Therapy</li>
+					<li class="menuItem">Objection Handler</li>
+					<li class="menuItem">Contact</li>
+				</ul>
+				<h1 style="display:inline;float:right;">Baxter</h1>
+			</menu>
+			
+		</div>
+	</header>
+	<div id="mainContentOuter" class="container">
+	<div id="index" >
+		<h1 id="pageHeading">Landing Page</h1>
+		<div id="mainContentInner">
+			<p id="layoutTextContent">
+					
+			</p>
+		</div>
+	</div>
+	</div>
+	<footer>
+		<div class="container">
+			<h1> Baxter Footer</h1>
+		</div>
+	</footer>
+	<script>
+		$(document).ready(function(){
+			$(".menuItem").on("click",function(){
+				navigate(this);
+			});
+		});
+		
+		function navigate(sender){
+			var contentId = "";
+			var path = "";
+			
+			switch($(sender).text().toLowerCase())
+			{
+				case "home":
+					location.reload(true);
+					return false;
+					break;
+				case "stability data":
+					contentId = "stability";
+					break;
+				case "objection handler":
+					contentId = "objHandler";
+					break; 
+				default:
+					contentId = $(sender).text().toLowerCase();										
+			}
+			getPageContent(contentId,path);
+		}
+		
+		function getPageContent(id, path){
+			var fullPath = path + id + ".html";
+			$.get(fullPath, function(data){
+				$("#mainContentOuter").empty();
+				$("#mainContentOuter").html(data);
+				loadPageContent($("#" + id));
+			});
+		}
+	</script>
+</body>
+</html>
