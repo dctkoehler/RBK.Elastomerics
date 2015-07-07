@@ -1,6 +1,6 @@
 
 var objContent = [];
-var landingId = "#index";
+var landingId = "#introduction";
 
 function is_touch_device() {
   return 'ontouchstart' in window // works on most browsers 
@@ -242,7 +242,7 @@ function changeWhy(element){
 } */
 
 function loadAllJSON(){
-		$.getJSON("json/content.json", function(json){
+		$.getJSON("../json/content.json", function(json){
 			objContent = json.content;
 		}).done(function(){
 			loadPageContent($(landingId)); 		

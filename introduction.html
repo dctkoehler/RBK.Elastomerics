@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Landing</title>
+    <title>Introduction</title>
 
     <!-- Bootstrap core CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -42,18 +42,59 @@
     </script>-->
 </head>
 <body>
-	<head>
-		<h1 style="display:inline;float:right;">Baxter</h1>
-	</head>
-	<div id="landingMain" onclick="navigate(this)">
-		<div id="landingHead">
-			Infusor<br/>
-			<span id="landingSubHead">DISPOSABLE AMBULATORY SYSTEMS</span>
+	<header >
+		<div id="headContainer" class="container">		
+			
+			<menu>
+				<ul class="menuContainer">
+					<li class="menuItem">Home</li>
+					<li class="menuItem">Value</li>
+					<li class="menuItem">Products</li>
+					<li class="menuItem">Stability Data</li>
+					<li class="menuItem">Therapy</li>
+					<li class="menuItem">Objection Handler</li>
+					<li class="menuItem">Contact</li>
+				</ul>
+				<h1 style="display:inline;float:right;">Baxter</h1>
+			</menu>
+			<div id="submenuItems"></div>
 		</div>
-		<div id="leftBarLanding"></div>
-		<div id="mainbarLanding"></div>
-		<div id="landingImage"></div>
-		<div id="landingFoot">INFUSOR DISPOSABLE AMBULATORY SYSTEMS RESOURCE TOOL</div>
+	</header>
+	<div id="mainContentOuter" class="container">
+	<div id="introduction" >
+		<h1 id="pageHeading"></h1>
+		<div id="narrowLeft"></div>
+		<div id="mainContentInner">
+			<p id="layoutTextContent">
+				
+			</p>
+			<p id="listHeading">
+			
+			</p>
+			<ul>
+				<li id="elevate"></li>
+				<li id="position"></li>
+				<li id="build"></li>
+				<li id="drive"></li>
+			</ul>
+		</div>
 	</div>
+	</div>
+	<footer>
+		<div class="container">
+			<div id="footImageLeft"></div>
+			<div id="footBar"> Delivering flexibility, freedom and confidence.</div>
+			<div id="footImageRightLg"></div>
+		</div>
+	</footer>
+	<script>
+		$(document).ready(function(){
+			$(".menuItem").on("click",function(){
+				navigate(this);
+			});
+		});
+		
+		
+	</script>
 </body>
 </html>

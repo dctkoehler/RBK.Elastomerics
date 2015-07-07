@@ -1,811 +1,830 @@
 {
-"content":[
-		{
-			"pageId": "index"
-			, "containers" :[
-				{
-					"containerId": "pageHeading"
-					, "containerContent": "Landing Page"
-				},
-				{
-					"containerId": "layoutTextContent"
-					, "containerContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus convallis porta ipsum, mattis dignissim orci interdum rutrum. Pellentesque sit amet dolor orci. Mauris at felis eu orci tristique finibus. Nullam hendrerit ligula et purus consectetur ultrices. Nunc eu felis porttitor, interdum lectus semper, accumsan ante. Vivamus tempor, justo quis volutpat sollicitudin, nisi turpis laoreet dolor, lobortis posuere dolor nisl a nisl. Cras vitae tortor rhoncus, mollis augue et, mattis massa. Mauris orci ex, tincidunt nec varius id, lobortis vel erat. Pellentesque eu neque accumsan, eleifend lectus tempus, semper magna."
-				}
-			]
-		},
-		{
-			"pageId": "value"
-			, "containers" :[
-				{
-					"containerId": "valueHead"
-					, "containerContent": "Value Head Text"
-				},
-				{
-					"containerId": "valueText"
-					, "containerContent": "Lorem ipsum dolor sit amet"
-				},
-				{
-					"containerId": "valueText1"
-					, "containerContent": "Consectetur adipiscing elit. Vivamus convallis porta ipsum, mattis dignissim orci interdum rutrum. Pellentesque sit amet dolor orci. Mauris at felis eu orci tristique finibus. Nullam hendrerit ligula et purus consectetur ultrices. Nunc eu felis porttitor, interdum lectus semper, accumsan ante. Vivamus tempor, justo quis volutpat sollicitudin, nisi turpis laoreet dolor, lobortis posuere dolor nisl a nisl. Cras vitae tortor rhoncus, mollis augue et, mattis massa. Mauris orci ex, tincidunt nec varius id, lobortis vel erat. Pellentesque eu neque accumsan, eleifend lectus tempus, semper magna."
-				}
-			]
-		},
-		{
-			"pageId": "products"
-			, "containers" :[
-				{
-					"containerId": "templateHead"
-					, "containerContent": "Products"
-				},
-				{
-					"containerId": "templateBody1"
-					, "containerContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus convallis"
-				},
-				{
-					"containerId": "templateBody2"
-					, "containerContent": "Vivamus convallis porta ipsum, mattis dignissim orci interdum rutrum. Pellentesque sit amet dolor orci. Mauris at felis eu orci tristique finibus. Nullam hendrerit ligula et purus consectetur"
-				}
-					
-			]
-		},
-		{
-			"pageId": "stability"
-			, "containers" :[
-				{
-					"containerId": "templateHead"
-					, "containerContent": "Stability Data"
-				},
-				{
-					"containerId": "templateBody1"
-					, "containerContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus convallis"
-				},
-				{
-					"containerId": "templateBody2"
-					, "containerContent": "Vivamus convallis porta ipsum, mattis dignissim orci interdum rutrum. Pellentesque sit amet dolor orci. Mauris at felis eu orci tristique finibus. Nullam hendrerit ligula et purus consectetur"
-				}
-					
-			]
-		},
-		{
-			"pageId": "therapy"
-			, "containers" :[
-				{
-					"containerId": "templateHead"
-					, "containerContent": "Therapy"
-				},
-				{
-					"containerId": "templateBody1"
-					, "containerContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus convallis"
-				},
-				{
-					"containerId": "templateBody2"
-					, "containerContent": "Vivamus convallis porta ipsum, mattis dignissim orci interdum rutrum. Pellentesque sit amet dolor orci. Mauris at felis eu orci tristique finibus. Nullam hendrerit ligula et purus consectetur"
-				}
-					
-			]
-		},
-		{
-			"pageId": "objHandler"
-			, "containers" :[
-				{
-					"containerId": "templateHead"
-					, "containerContent": "Objection Handler"
-				},
-				{
-					"containerId": "templateBody1"
-					, "containerContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus convallis"
-				},
-				{
-					"containerId": "templateBody2"
-					, "containerContent": "Vivamus convallis porta ipsum, mattis dignissim orci interdum rutrum. Pellentesque sit amet dolor orci. Mauris at felis eu orci tristique finibus. Nullam hendrerit ligula et purus consectetur"
-				}
-					
-			]
-		},
-		{
-			"pageId": "contact"
-			, "containers" :[
-				{
-					"containerId": "templateHead"
-					, "containerContent": "Contact"
-				},
-				{
-					"containerId": "templateBody1"
-					, "containerContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus convallis"
-				},
-				{
-					"containerId": "templateBody2"
-					, "containerContent": "Vivamus convallis porta ipsum, mattis dignissim orci interdum rutrum. Pellentesque sit amet dolor orci. Mauris at felis eu orci tristique finibus. Nullam hendrerit ligula et purus consectetur"
-				}
-					
-			]
-		},
-		{
-			"pageId": "introduction4"
-			, "containers" :[
-				{
-					"containerId": "smBannerTitle"
-					, "containerContent": "New <span class=\"bannerBold\">Homechoice Claria</span> APD System from Baxter"
-				},
-				{
-					"containerId": "lgBannerTitle"
-					, "containerContent": "Now Baxter takes the Homechoice <br/>cycler to the next level"
-				},
-				{
-					"containerId": "pageContent1"
-					, "containerContent": "The <span class=\"bannerBold\">Homechoice</span> Claria APD system is integrated with the <span class=\"bannerBold\">Sharesource</span> connectivity platform, that offers complete, secure data transfer and allows you to manage device programs remotely."
-				}
-			]
-		},
-		{
-			"pageId": "features1"
-			, "containers" :[
-				{
-					"containerId": "smBannerTitle"
-					, "containerContent": "<span class=\"bannerBold\">Homechoice Claria</span> APD System"
-				},
-				{
-					"containerId": "lgBannerTitle"
-					, "containerContent": "New features"
-				},
-				{
-					"containerId": "featureGlance"
-					, "containerContent": "At first glance, the cycler itself may look quite familiar –<br/>it’s what’s inside that makes all the difference."
-				},
-				{
-					"containerId": "feature1Text"
-					, "containerContent": "View new features"
-				},
-				{
-					"containerId": "featureBox1"
-					, "containerContent": "200% larger screen improves visibility compared to the original Homechoice cycler"
-				},
-				{
-					"containerId": "featureBox2"
-					, "containerContent": "Legible from multiple angles"
-				},
-				{
-					"containerId": "featureBox3"
-					, "containerContent": "2-line display eliminates the need for alternating messages"
-				},
-				{
-					"containerId": "featureBox4"
-					, "containerContent": "Larger font"
-				},
-				{
-					"containerId": "featureBox5"
-					, "containerContent": "8 new languages added (41 total)"
-				},
-				{
-					"containerId": "featureBox6"
-					, "containerContent": "2-way communication allows clinic to monitor treatment data and adjust device programs remotely"
-				},
-				{
-					"containerId": "featureBox7"
-					, "containerContent": "No need to wait for patients to bring in paper records"
-				},
-				{
-					"containerId": "featureBox8"
-					, "containerContent": "Store up to 4 device programs"
-				},
-				{
-					"containerId": "featureBox9"
-					, "containerContent": "Access up to 30 days of treatment data via the dashboard"
-				},
-				{
-					"containerId": "featureBox10"
-					, "containerContent": "Unlimited access to a patient’s treatment data history within reports"
-				}
-			]
-		},
-		{
-			"pageId": "features4"
-			, "containers" :[
-				{
-					"containerId": "smBannerTitle"
-					, "containerContent": "<span class=\"bannerBold\">Sharesource</span> Connectivity Platform"
-				},
-				{
-					"containerId": "lgBannerTitle"
-					, "containerContent": "Transforming APD from within"
-				},
-				{
-					"containerId": "featureIntro"
-					, "containerContent": "The connectivity of the <span class=\"bannerBold\">Sharesource</span> platform supports much more than accurate data and proactive therapy decisions – it means patients may feel more secure in performing therapy at home."
-				}, 
-				{
-					"containerId": "timely"
-					, "containerContent": "Provide more timely patient care – make more proactive therapy decisions"
-				},
-				{
-					"containerId": "efficient"
-					, "containerContent": "Save clinic time – improve efficiencies"
-				}
-			]
-		},
-		{
-			"pageId": "features5"
-			, "containers" :[
-				{
-					"containerId": "contentHeading"
-					, "containerContent": "CONNECTIVITY PLATFORM"
-				},
-				{
-					"containerId": "timelyPatient"
-					, "containerContent": "Provide more timely patient care – make more proactive therapy decisions"
-				},
-				{
-					"containerId": "viewDetailHead"
-					, "containerContent": "Remotely view patient treatment data from a web browser:"
-				}, 
-				{
-					"containerId": "viewDetailContent"
-					, "containerContent": "On-demand access to data allows you to intervene in a more timely manner – ultimately having more control over your patients’ therapy"
-				},
-				{
-					"containerId": "createDetailHead"
-					, "containerContent": "Remotely create and edit a device program:"
-				},
-				{
-					"containerId": "createDetailContent"
-					, "containerContent": "Update your patients’ therapy as needed to provide more timely care – no need to wait for an office visit to intervene"
-				},
-				{
-					"containerId": "flagDetailHead"
-					, "containerContent": "Set clinic level flag alerts:"
-				},
-				{
-					"containerId": "flagDetailContent"
-					, "containerContent": "Ensures your clinic focuses on important clinical events"
-				},
-				{
-					"containerId": "efficient"
-					, "containerContent": "Save clinic time – improve efficiencies"
-				},
-				{
-					"containerId": "remoteViewHead"
-					, "containerContent": "Remotely view patient treatment data from a web browser"
-				},
-				{
-					"containerId": "remoteCreateHead"
-					, "containerContent": "Remotely create and edit a device program"
-				},
-				{
-					"containerId": "remoteFlagHead"
-					, "containerContent": "Set clinic level flag alerts"
-				}
-			]
-		},
-		{
-			"pageId": "features6"
-			, "containers" :[
-				{
-					"containerId": "contentHeading"
-					, "containerContent": "CONNECTIVITY PLATFORM"
-				},
-				{
-					"containerId": "timelyPatient"
-					, "containerContent": "Provide more timely patient care – make more proactive therapy decisions"
-				},
-				{
-					"containerId": "efficient"
-					, "containerContent": "Save clinic time – improve efficiencies"
-				},
-				{
-					"containerId": "automatedDetailHead"
-					, "containerContent": "Automated patient treatment data collection:*"
-				}, 
-				{
-					"containerId": "automatedDetailContent"
-					, "containerContent": "Ensures accurate patient treatment data collection; eliminates manual entry of treatment data, reducing administrative burden on patients and clinic"
-				},
-				{
-					"containerId": "comprehensiveDetailHead"
-					, "containerContent": "Comprehensive treatment reporting:"
-				},
-				{
-					"containerId": "comprehensiveDetailContent"
-					, "containerContent": "Allows you to aggregate both patient and clinic treatment data to see the bigger picture more easily; also serves as treatment verification for payers (you have solid proof of treatment for reimbursement purposes)"
-				},
-				{
-					"containerId": "remoteTechDetailHead"
-					, "containerContent": "Remote technical service:"
-				},
-				{
-					"containerId": "remoteTechDetailContent"
-					, "containerContent": "Allows Baxter to troubleshoot devices in a more timely manner – fewer device swaps saves time for the patient and clinic"
-				},
-				{
-					"containerId": "remoteFirmDetailHead"
-					, "containerContent": "Remote firmware upgrades:"
-				},
-				{
-					"containerId": "remoteFirmDetailContent"
-					, "containerContent": "Software updates occur without a device swap, eliminating hassle for both the patient and clinic"
-				}
-				,
-				{
-					"containerId": "autoHead"
-					, "containerContent": "Automated patient treatment data collection"
-				},
-				{
-					"containerId": "compHead"
-					, "containerContent": "Comprehensive treatment reporting"
-				},
-				{
-					"containerId": "refCaseStudy1"
-					, "containerContent": "* After a treatment, the next time the patient powers the machine, the treatment data from the dialysis device automatically uploads to the Sharesource portal and is available for viewing.  The time taken will vary, depending on connection speeds and the amount of information to be transferred."
-				}
-			]
-		},
-		{
-			"pageId": "caseStudy"
-			, "containers" :[
-				{
-					"containerId": "caseHead"
-					, "containerContent": "CONNECTIVITY PLATFORM + CASE STUDY*"
-				},
-				{
-					"containerId": "caseNameTitle"
-					, "containerContent": "Name: "
-				},
-				{
-					"containerId": "caseName"
-					, "containerContent": "Karl"
-				},
-				{
-					"containerId": "caseAgeTitle"
-					, "containerContent": "Age:"
-				},
-				{
-					"containerId": "caseAge"
-					, "containerContent": "65"
-				},
-				{
-					"containerId": "caseStageTitle"
-					, "containerContent": "Life stage:"
-				},
-				{
-					"containerId": "caseStage"
-					, "containerContent": "Retired carpenter, married, lives on the outskirts of the city, neither he nor his wife drive"
-				},
-				{
-					"containerId": "caseDiagTitle"
-					, "containerContent": "Diagnosis:"
-				},
-				{
-					"containerId": "caseDiag"
-					, "containerContent": "Chronic kidney disease, diabetes"
-				},
-				{
-					"containerId": "caseClinicalTitle"
-					, "containerContent": "Clinical assessment:"
-				},
-				{
-					"containerId": "caseClinical"
-					, "containerContent": "Needs to start on dialysis within 1-2 months"
-				},
-				{
-					"containerId": "casePriorityHead"
-					, "containerContent": "Karl’s priorities and concerns:"					
-				},
-				{
-					"containerId": "casePriFamily"
-					, "containerContent": "Doesn’t want to be a burden to his family"					
-				},
-				{
-					"containerId": "casePriTech"
-					, "containerContent": "Not familiar with the Internet, computers, new technology"					
-				},
-				{
-					"containerId": "casePriTime"
-					, "containerContent": "Wants ample time for family and hobbies"					
-				},
-				{
-					"containerId": "casePriTrans"
-					, "containerContent": "Has to use public transportation which can be challenging"					
-				},
-				{
-					"containerId": "caseNeedHead"
-					, "containerContent": "How the Homechoice Claria APD system addressed Karl’s needs:"					
-				},
-				{
-					"containerId": "caseNeedFlex"
-					, "containerContent": "Home-based, flexible therapy and treatment schedule alleviates transportation concerns and allows him time to pursue hobbies"					
-				},
-				{
-					"containerId": "caseNeedUser"
-					, "containerContent": "User-friendly <span class=\"bannerBold\">Sharesource</span> platform further simplifies treatment with automatic data transmission<sup>†</sup>"					
-				},
-				{
-					"containerId": "caseNeedDevice"
-					, "containerContent": "Device programs can be adjusted via the <span class=\"bannerBold\">Sharesource</span> platform by his nephrologist"					
-				},
-				{
-					"containerId": "caseNeedAccess"
-					, "containerContent": "24/7 access to a technical service helpline further boosts his confidence<sup>‡</sup>"					
-				},
-				{
-					"containerId": "caseIssueHead"
-					, "containerContent": "An issue arises:"
-				},
-				{
-					"containerId": "caseIssueContent"
-					, "containerContent": "Karl’s nurse discovers <a onClick=\"openPopup('redFlagPop');\">red flags</a> after logging into the <span class=\"bannerBold\">Sharesource</span> platform to <a onClick=\"openPopup('reviewTreatPop');\">review his treatment data:</a> flag indicates Karl finished PD therapy early and performed less cycles than prescribed. She asks that he come in for a checkup to ensure no further issues have arisen."
-				},
-				{
-					"containerId": "caseResolveHead"
-					, "containerContent": "How Karl’s issue is resolved:"
-				},
-				{
-					"containerId": "redFlagHead"
-					, "containerContent": "View red flags"
-				},
-				{
-					"containerId": "reviewTreatHead"
-					, "containerContent": "Review treatment data"
-				},
-				{
-					"containerId": "deviceProgHead"
-					, "containerContent": "Device program change"
-				},
-				{
-					"containerId": "caseResolveContent1a"
-					, "containerContent": "At his appointment, Karl’s nephrologist reviews Karl and low day time ultrafiltration observed in <span class=\"bannerBold\">Sharesource</span> records. For therapy adequacy he prescribes <span class=\"bannerBold\">Extraneal</span> (icodextrin). The <a onClick=\"openPopup('deviceProgPop');\">device program change is made remotely</a> via the <span class=\"bannerBold\">Sharesource</span> platform, so it’s ready for Karl’s next therapy session."
-				},
-				{
-					"containerId": "caseResolveContent2"
-					, "containerContent": "Karl feels supported by the clinical staff in their ability to proactively address his needs and he feels more confident in his ability to stay on PD."
-				},
-				{
-					"containerId": "refCaseStudy1"
-					, "containerContent": "* Hypothetical case study"
-				},
-				{
-					"containerId": "refCaseStudy2"
-					, "containerContent": "† After a treatment, the next time the patient powers the machine, the treatment data from the dialysis device automatically uploads to the Sharesource portal and is available for viewing.  The time taken will vary, depending on connection speeds and the amount of information to be transferred."
-				},
-				{
-					"containerId": "refCaseStudy3"
-					, "containerContent": "‡ Contact your Baxter representative to learn if 24-hour technical service is available in your market."
-				}
-			]
-		},
-		{
-			"pageId": "summary1"
-			, "containers" :[
-				{
-					"containerId": "smBannerTitle"
-					, "containerContent": "New <span class=\"bannerBold\">Homechoice Claria</span> APD System from Baxter"
-				},
-				{
-					"containerId": "lgBannerTitle"
-					, "containerContent": "Homechoice Claria APD system<br/>with the Sharesource platform"
-				},
-				{
-					"containerId": "benefits"
-					, "containerContent": "BENEFITS"
-				}, 
-				{
-					"containerId": "clinicBenefitHead"
-					, "containerContent": "Clinic Benefit"
-				},
-				{
-					"containerId": "benefitEnable"
-					, "containerContent": "Enables remote patient monitoring and device program changes"
-				},
-				{
-					"containerId": "benefitIncrease"
-					, "containerContent": "May increase confidence to prescribe APD to more patients"
-				}, 
-				{
-					"containerId": "patBenefitHead"
-					, "containerContent": "Patient Benefit"
-				},
-				{
-					"containerId": "patBenefit"
-					, "containerContent": "May allow more patients to receive benefits of APD therapy"
-				}
+    "content": [
 
-			]
-		},
-		{
-			"pageId": "summary2"
-			, "containers" :[
-				{
-					"containerId": "smBannerTitle"
-					, "containerContent": "Service & Support"
-				},
-				{
-					"containerId": "lgBannerTitle"
-					, "containerContent": "Here for you.<br/> Here for your patients."
-				},
-				{
-					"containerId": "supportHead"
-					, "containerContent": "The support patients need to succeed*"
-				}, 
-				{
-					"containerId": "deliver"
-					, "containerContent": "Delivery & Inventory Services"
-				},
-				{
-					"containerId": "support"
-					, "containerContent": "On-Call Support"
-				},
-				{
-					"containerId": "swap"
-					, "containerContent": "SWAP Program"
-				}, 
-				{
-					"containerId": "train"
-					, "containerContent": "Training Programs"
-				},
-				{
-					"containerId": "club"
-					, "containerContent": "Baxter Travel Club"
-				},
-				{
-					"containerId": "teamDesignedHead"
-					, "containerContent": "A team designed around you*"
-				}, 
-				{
-					"containerId": "medicalItem"
-					, "containerContent": "Medical Support & Education"
-				},
-				{
-					"containerId": "clinicalItem"
-					, "containerContent": "Clinical PD Consulting"
-				},
-				{
-					"containerId": "summaryNote"
-					, "containerContent": "*Contact your local Baxter representative to learn which services are available in your market"
-				}
-			]
-		},
-		{
-			"pageId": "why1"
-			, "containers" :[
-				{
-					"containerId": "smBannerTitle"
-					, "containerContent": "Combination for Success"
-				},
-				{
-					"containerId": "lgBannerTitle"
-					, "containerContent": "Four reasons to rely on Baxter PD.<br/>One comprehensive portfolio."
-				},
-				{
-					"containerId": "langItem"
-					, "containerContent": "41 languages"
-				}, 
-				{
-					"containerId": "pedItem"
-					, "containerContent": "Pediatric capability"
-				},
-				{
-					"containerId": "visItem"
-					, "containerContent": "Improved display visibility"
-				},
-				{
-					"containerId": "commItem"
-					, "containerContent": "Exclusive 2-way communication"
-				}, 
-				{
-					"containerId": "accessItem"
-					, "containerContent": "Remote access to patient data"
-				},
-				{
-					"containerId": "deviceItem"
-					, "containerContent": "Proactive device program management"
-				},
-				{
-					"containerId": "techItem"
-					, "containerContent": "Remote technical service and firmware upgrades"
-				},
-				{
-					"containerId": "supplyItem"
-					, "containerContent": "Integrated supply ordering*"
-				},
-				{
-					"containerId": "lowItem"
-					, "containerContent": "Only non-glucose solutions and low glucose therapy combinations"
-				}, 
-				{
-					"containerId": "longItem"
-					, "containerContent": "Only non-glucose solution for the long dwell"
-				},
-				{
-					"containerId": "shortItem"
-					, "containerContent": "Only optimal solution for the short dwell"
-				},
-				{
-					"containerId": "comfortItem"
-					, "containerContent": "Only PD solution proven to improve patient comfort"
-				},
-				{
-					"containerId": "expertItem"
-					, "containerContent": "With our comprehensive service and support, you and your patients<br/>have access to a network of knowledgeable Baxter experts at every<br/>therapy touchpoint"
-				},
-				{
-					"containerId": "refCaseStudy1"
-					, "containerContent": "*Available within customer service portal, which is not available in all markets."
-				},
-				{
-					"containerId": "refCaseStudy2"
-					, "containerContent": "† Not all solutions are available in all markets."
-				}
+        {
+            "pageId": "introduction",
+            "containers": [
+                {
+                    "containerId": "pageHeading",
+                    "containerContent": "Introduction"
+                },
+                {
+                    "containerId": "layoutTextContent",
+                    "containerContent": "There's never been a better time to capitalize on the substantial sales, earnings and growth potential Baxter offers you through our high-margin, high-profit portfolio of Infusor Disposable Ambulatory Systems."
+                },
+                {
+                    "containerId": "listHeading",
+                    "containerContent": "This tool was specifically designed to arm sales teams with the resources to:"
+                },
+                {
+                    "containerId": "elevate",
+                    "containerContent": "Elevate the value of the Infusor portfolio"
+                },
+                {
+                    "containerId": "position",
+                    "containerContent": "Position the portfolio effectively in the marketplace"
+                },
+                {
+                    "containerId": "build",
+                    "containerContent": "Build long-term equity for the Infusor brand"
+                },
+                {
+                    "containerId": "drive",
+                    "containerContent": "Drive a competitive advantage on every sale"
+                }
+            ]
+        },
+        {
+            "pageId": "value",
+            "containers": [
+                {
+                    "containerId": "valueHead",
+                    "containerContent": "Value Head Text"
+                },
+                {
+                    "containerId": "valueText",
+                    "containerContent": "Lorem ipsum dolor sit amet"
+                },
+                {
+                    "containerId": "valueText1",
+                    "containerContent": "Consectetur adipiscing elit. Vivamus convallis porta ipsum, mattis dignissim orci interdum rutrum. Pellentesque sit amet dolor orci. Mauris at felis eu orci tristique finibus. Nullam hendrerit ligula et purus consectetur ultrices. Nunc eu felis porttitor, interdum lectus semper, accumsan ante. Vivamus tempor, justo quis volutpat sollicitudin, nisi turpis laoreet dolor, lobortis posuere dolor nisl a nisl. Cras vitae tortor rhoncus, mollis augue et, mattis massa. Mauris orci ex, tincidunt nec varius id, lobortis vel erat. Pellentesque eu neque accumsan, eleifend lectus tempus, semper magna."
+                }
+            ]
+        },
+        {
+            "pageId": "products",
+            "containers": [
+                {
+                    "containerId": "templateHead",
+                    "containerContent": "Products"
+                },
+                {
+                    "containerId": "templateBody1",
+                    "containerContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus convallis"
+                },
+                {
+                    "containerId": "templateBody2",
+                    "containerContent": "Vivamus convallis porta ipsum, mattis dignissim orci interdum rutrum. Pellentesque sit amet dolor orci. Mauris at felis eu orci tristique finibus. Nullam hendrerit ligula et purus consectetur"
+                }
 
-			]
-		},
-		{
-			"pageId": "why2"
-			, "containers" :[
-				{
-					"containerId": "smBannerTitle"
-					, "containerContent": "Combination for Success"
-				},
-				{
-					"containerId": "lgBannerTitle"
-					, "containerContent": "Four reasons to rely on Baxter PD.<br/>One comprehensive portfolio."
-				},
-				{
-					"containerId": "commItem"
-					, "containerContent": "Exclusive 2-way communication"
-				}, 
-				{
-					"containerId": "accessItem"
-					, "containerContent": "Remote access to patient data"
-				},
-				{
-					"containerId": "deviceItem"
-					, "containerContent": "Proactive device program management"
-				},
-				{
-					"containerId": "techItem"
-					, "containerContent": "Remote technical service and firmware upgrades"
-				},
-				{
-					"containerId": "supplyItem"
-					, "containerContent": "Integrated supply ordering*"
-				},
-				{
-					"containerId": "refCaseStudy1"
-					, "containerContent": "* Available within customer service portal, which is not available in all markets."
-				},
-				{
-					"containerId": "refCaseStudy2"
-					, "containerContent": "† Not all solutions are available in all markets."
-				}
-			]
-		},
-		{
-			"pageId": "why3"
-			, "containers" :[
-				{
-					"containerId": "smBannerTitle"
-					, "containerContent": "Combination for Success"
-				},
-				{
-					"containerId": "lgBannerTitle"
-					, "containerContent": "Four reasons to rely on Baxter PD.<br/>One comprehensive portfolio."
-				},
-				{
-					"containerId": "lowItem"
-					, "containerContent": "Only non-glucose solution and low glucose therapy combinations"
-				}, 
-				{
-					"containerId": "longItem"
-					, "containerContent": "Only non-glucose solution for the long dwell"
-				},
-				{
-					"containerId": "shortItem"
-					, "containerContent": "Only non-glucose solution for the short dwell"
-				},
-				{
-					"containerId": "comfortItem"
-					, "containerContent": "Only PD solution proven to improve patient comfort"
-				},
-				{
-					"containerId": "refCaseStudy1"
-					, "containerContent": "*Available within customer service portal, which is not available in all markets."
-				},
-				{
-					"containerId": "refCaseStudy2"
-					, "containerContent": "† Not all solutions are available in all markets."
-				}
-			]
-		},
-		{
-			"pageId": "why4"
-			, "containers" :[
-				{
-					"containerId": "smBannerTitle"
-					, "containerContent": "Combination for Success"
-				},
-				{
-					"containerId": "lgBannerTitle"
-					, "containerContent": "Four reasons to rely on Baxter PD.<br/>One comprehensive portfolio."
-				},
-				{
-					"containerId": "expertItem"
-					, "containerContent": "With our comprehensive service and support, you and your patients<br/>have access to a network of knowledgeable Baxter experts at every<br/>therapy touchpoint"
-				},
-				{
-					"containerId": "refCaseStudy1"
-					, "containerContent": "*Available within customer service portal, which is not available in all markets."
-				},
-				{
-					"containerId": "refCaseStudy2"
-					, "containerContent": "† Not all solutions are available in all markets."
-				}
-			]
-		},
-		{
-			"pageId": "prescribe1"
-			, "containers" :[
-				{
-					"containerId": "prescribeHead"
-					, "containerContent": "PRESCRIBING INFORMATION"
-				},
-				{
-					"containerId": "prescribeLink"
-					, "containerContent": "<b>Click to view prescribing information.</b>"
-				}
-			]
-		},
-		{
-			"pageId": "reference1"
-			, "containers" :[
-				{
-					"containerId": "referenceHead"
-					, "containerContent": "REFERENCES AND CITATIONS"
-				},
-				{
-					"containerId": "referenceLink1"
-					, "containerContent": "1 Data on file. Baxter International Inc., Deerfield, IL."
-				},
-				{
-					"containerId": "referenceLink2"
-					, "containerContent": "2 Davies SJ, Woodrow G, Donovan K, et al. Icodextrin improves the fluid status of peritoneal dialysis patients: results of a double-blind randomized controlled trial. <i>J Am Soc Nephrol</i>. 2003;14(9):2338-2344."
-				},
-				{
-					"containerId": "referenceLink3"
-					, "containerContent": "3 Paniagua R, Ventura MD, Avila-Diaz M, et al. Icodextrin improves metabolic and fluid management in high and high-average transport diabetic patients. <i>Perit Dial Int.</i> 2009;29(4):422-432."
-				},
-				{
-					"containerId": "referenceLink4"
-					, "containerContent": "4 Bro S, Bjorner JB, Tofte-Jensen P, et al. A prospective, randomized multicenter study comparing APD and CAPD treatment. <i>Perit Dial Int.</i> 1999;19:526-533."
-				},
-				{
-					"containerId": "referenceLink5"
-					, "containerContent": "5 Mactier RA et al. Bicarbonate and bicarbonate/lactate peritoneal dialysis solutions for the treatment of infusion pain. <i>Kidney Int.</i> 1998;53:1061-1067."
-				},
-				{
-					"containerId": "brandFoot"
-					, "containerContent": "Baxter, Dianeal, Extraneal, Nutrineal, Physioneal, Homechoice, Homechoice Claria and Sharesource are trademarks of Baxter International Inc."
-				},
-				{
-					"containerId": "versionNum"
-					, "containerContent": "EUMP/186/15-0005 March 2015"
-				},
-				{
-					"containerId": "baxterLink"
-					, "containerContent": "www.baxter.com"
-				}
-				,
-				{
-					"containerId": "baxterAddress1"
-					, "containerContent": "Baxter International Inc."
-				},
-				{
-					"containerId": "baxterAddress2"
-					, "containerContent": "One Baxter Parkway"
-				},
-				{
-					"containerId": "baxterAddress3"
-					, "containerContent": "Deerfield, IL 60015"
-				}
-			]
-		}
-		
-	]
+            ]
+        },
+        {
+            "pageId": "stability",
+            "containers": [
+                {
+                    "containerId": "templateHead",
+                    "containerContent": "Stability Data"
+                },
+                {
+                    "containerId": "templateBody1",
+                    "containerContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus convallis"
+                },
+                {
+                    "containerId": "templateBody2",
+                    "containerContent": "Vivamus convallis porta ipsum, mattis dignissim orci interdum rutrum. Pellentesque sit amet dolor orci. Mauris at felis eu orci tristique finibus. Nullam hendrerit ligula et purus consectetur"
+                }
+
+            ]
+        },
+        {
+            "pageId": "therapy",
+            "containers": [
+                {
+                    "containerId": "templateHead",
+                    "containerContent": "Therapy"
+                },
+                {
+                    "containerId": "templateBody1",
+                    "containerContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus convallis"
+                },
+                {
+                    "containerId": "templateBody2",
+                    "containerContent": "Vivamus convallis porta ipsum, mattis dignissim orci interdum rutrum. Pellentesque sit amet dolor orci. Mauris at felis eu orci tristique finibus. Nullam hendrerit ligula et purus consectetur"
+                }
+
+            ]
+        },
+        {
+            "pageId": "objHandler",
+            "containers": [
+                {
+                    "containerId": "templateHead",
+                    "containerContent": "Objection Handler"
+                },
+                {
+                    "containerId": "templateBody1",
+                    "containerContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus convallis"
+                },
+                {
+                    "containerId": "templateBody2",
+                    "containerContent": "Vivamus convallis porta ipsum, mattis dignissim orci interdum rutrum. Pellentesque sit amet dolor orci. Mauris at felis eu orci tristique finibus. Nullam hendrerit ligula et purus consectetur"
+                }
+
+            ]
+        },
+        {
+            "pageId": "contact",
+            "containers": [
+                {
+                    "containerId": "templateHead",
+                    "containerContent": "Contact"
+                },
+                {
+                    "containerId": "templateBody1",
+                    "containerContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus convallis"
+                },
+                {
+                    "containerId": "templateBody2",
+                    "containerContent": "Vivamus convallis porta ipsum, mattis dignissim orci interdum rutrum. Pellentesque sit amet dolor orci. Mauris at felis eu orci tristique finibus. Nullam hendrerit ligula et purus consectetur"
+                }
+
+            ]
+        },
+        {
+            "pageId": "introduction4",
+            "containers": [
+                {
+                    "containerId": "smBannerTitle",
+                    "containerContent": "New <span class=\"bannerBold\">Homechoice Claria</span> APD System from Baxter"
+                },
+                {
+                    "containerId": "lgBannerTitle",
+                    "containerContent": "Now Baxter takes the Homechoice <br/>cycler to the next level"
+                },
+                {
+                    "containerId": "pageContent1",
+                    "containerContent": "The <span class=\"bannerBold\">Homechoice</span> Claria APD system is integrated with the <span class=\"bannerBold\">Sharesource</span> connectivity platform, that offers complete, secure data transfer and allows you to manage device programs remotely."
+                }
+            ]
+        },
+        {
+            "pageId": "features1",
+            "containers": [
+                {
+                    "containerId": "smBannerTitle",
+                    "containerContent": "<span class=\"bannerBold\">Homechoice Claria</span> APD System"
+                },
+                {
+                    "containerId": "lgBannerTitle",
+                    "containerContent": "New features"
+                },
+                {
+                    "containerId": "featureGlance",
+                    "containerContent": "At first glance, the cycler itself may look quite familiar –<br/>it’s what’s inside that makes all the difference."
+                },
+                {
+                    "containerId": "feature1Text",
+                    "containerContent": "View new features"
+                },
+                {
+                    "containerId": "featureBox1",
+                    "containerContent": "200% larger screen improves visibility compared to the original Homechoice cycler"
+                },
+                {
+                    "containerId": "featureBox2",
+                    "containerContent": "Legible from multiple angles"
+                },
+                {
+                    "containerId": "featureBox3",
+                    "containerContent": "2-line display eliminates the need for alternating messages"
+                },
+                {
+                    "containerId": "featureBox4",
+                    "containerContent": "Larger font"
+                },
+                {
+                    "containerId": "featureBox5",
+                    "containerContent": "8 new languages added (41 total)"
+                },
+                {
+                    "containerId": "featureBox6",
+                    "containerContent": "2-way communication allows clinic to monitor treatment data and adjust device programs remotely"
+                },
+                {
+                    "containerId": "featureBox7",
+                    "containerContent": "No need to wait for patients to bring in paper records"
+                },
+                {
+                    "containerId": "featureBox8",
+                    "containerContent": "Store up to 4 device programs"
+                },
+                {
+                    "containerId": "featureBox9",
+                    "containerContent": "Access up to 30 days of treatment data via the dashboard"
+                },
+                {
+                    "containerId": "featureBox10",
+                    "containerContent": "Unlimited access to a patient’s treatment data history within reports"
+                }
+            ]
+        },
+        {
+            "pageId": "features4",
+            "containers": [
+                {
+                    "containerId": "smBannerTitle",
+                    "containerContent": "<span class=\"bannerBold\">Sharesource</span> Connectivity Platform"
+                },
+                {
+                    "containerId": "lgBannerTitle",
+                    "containerContent": "Transforming APD from within"
+                },
+                {
+                    "containerId": "featureIntro",
+                    "containerContent": "The connectivity of the <span class=\"bannerBold\">Sharesource</span> platform supports much more than accurate data and proactive therapy decisions – it means patients may feel more secure in performing therapy at home."
+                },
+                {
+                    "containerId": "timely",
+                    "containerContent": "Provide more timely patient care – make more proactive therapy decisions"
+                },
+                {
+                    "containerId": "efficient",
+                    "containerContent": "Save clinic time – improve efficiencies"
+                }
+            ]
+        },
+        {
+            "pageId": "features5",
+            "containers": [
+                {
+                    "containerId": "contentHeading",
+                    "containerContent": "CONNECTIVITY PLATFORM"
+                },
+                {
+                    "containerId": "timelyPatient",
+                    "containerContent": "Provide more timely patient care – make more proactive therapy decisions"
+                },
+                {
+                    "containerId": "viewDetailHead",
+                    "containerContent": "Remotely view patient treatment data from a web browser:"
+                },
+                {
+                    "containerId": "viewDetailContent",
+                    "containerContent": "On-demand access to data allows you to intervene in a more timely manner – ultimately having more control over your patients’ therapy"
+                },
+                {
+                    "containerId": "createDetailHead",
+                    "containerContent": "Remotely create and edit a device program:"
+                },
+                {
+                    "containerId": "createDetailContent",
+                    "containerContent": "Update your patients’ therapy as needed to provide more timely care – no need to wait for an office visit to intervene"
+                },
+                {
+                    "containerId": "flagDetailHead",
+                    "containerContent": "Set clinic level flag alerts:"
+                },
+                {
+                    "containerId": "flagDetailContent",
+                    "containerContent": "Ensures your clinic focuses on important clinical events"
+                },
+                {
+                    "containerId": "efficient",
+                    "containerContent": "Save clinic time – improve efficiencies"
+                },
+                {
+                    "containerId": "remoteViewHead",
+                    "containerContent": "Remotely view patient treatment data from a web browser"
+                },
+                {
+                    "containerId": "remoteCreateHead",
+                    "containerContent": "Remotely create and edit a device program"
+                },
+                {
+                    "containerId": "remoteFlagHead",
+                    "containerContent": "Set clinic level flag alerts"
+                }
+            ]
+        },
+        {
+            "pageId": "features6",
+            "containers": [
+                {
+                    "containerId": "contentHeading",
+                    "containerContent": "CONNECTIVITY PLATFORM"
+                },
+                {
+                    "containerId": "timelyPatient",
+                    "containerContent": "Provide more timely patient care – make more proactive therapy decisions"
+                },
+                {
+                    "containerId": "efficient",
+                    "containerContent": "Save clinic time – improve efficiencies"
+                },
+                {
+                    "containerId": "automatedDetailHead",
+                    "containerContent": "Automated patient treatment data collection:*"
+                },
+                {
+                    "containerId": "automatedDetailContent",
+                    "containerContent": "Ensures accurate patient treatment data collection; eliminates manual entry of treatment data, reducing administrative burden on patients and clinic"
+                },
+                {
+                    "containerId": "comprehensiveDetailHead",
+                    "containerContent": "Comprehensive treatment reporting:"
+                },
+                {
+                    "containerId": "comprehensiveDetailContent",
+                    "containerContent": "Allows you to aggregate both patient and clinic treatment data to see the bigger picture more easily; also serves as treatment verification for payers (you have solid proof of treatment for reimbursement purposes)"
+                },
+                {
+                    "containerId": "remoteTechDetailHead",
+                    "containerContent": "Remote technical service:"
+                },
+                {
+                    "containerId": "remoteTechDetailContent",
+                    "containerContent": "Allows Baxter to troubleshoot devices in a more timely manner – fewer device swaps saves time for the patient and clinic"
+                },
+                {
+                    "containerId": "remoteFirmDetailHead",
+                    "containerContent": "Remote firmware upgrades:"
+                },
+                {
+                    "containerId": "remoteFirmDetailContent",
+                    "containerContent": "Software updates occur without a device swap, eliminating hassle for both the patient and clinic"
+                },
+                {
+                    "containerId": "autoHead",
+                    "containerContent": "Automated patient treatment data collection"
+                },
+                {
+                    "containerId": "compHead",
+                    "containerContent": "Comprehensive treatment reporting"
+                },
+                {
+                    "containerId": "refCaseStudy1",
+                    "containerContent": "* After a treatment, the next time the patient powers the machine, the treatment data from the dialysis device automatically uploads to the Sharesource portal and is available for viewing.  The time taken will vary, depending on connection speeds and the amount of information to be transferred."
+                }
+            ]
+        },
+        {
+            "pageId": "caseStudy",
+            "containers": [
+                {
+                    "containerId": "caseHead",
+                    "containerContent": "CONNECTIVITY PLATFORM + CASE STUDY*"
+                },
+                {
+                    "containerId": "caseNameTitle",
+                    "containerContent": "Name: "
+                },
+                {
+                    "containerId": "caseName",
+                    "containerContent": "Karl"
+                },
+                {
+                    "containerId": "caseAgeTitle",
+                    "containerContent": "Age:"
+                },
+                {
+                    "containerId": "caseAge",
+                    "containerContent": "65"
+                },
+                {
+                    "containerId": "caseStageTitle",
+                    "containerContent": "Life stage:"
+                },
+                {
+                    "containerId": "caseStage",
+                    "containerContent": "Retired carpenter, married, lives on the outskirts of the city, neither he nor his wife drive"
+                },
+                {
+                    "containerId": "caseDiagTitle",
+                    "containerContent": "Diagnosis:"
+                },
+                {
+                    "containerId": "caseDiag",
+                    "containerContent": "Chronic kidney disease, diabetes"
+                },
+                {
+                    "containerId": "caseClinicalTitle",
+                    "containerContent": "Clinical assessment:"
+                },
+                {
+                    "containerId": "caseClinical",
+                    "containerContent": "Needs to start on dialysis within 1-2 months"
+                },
+                {
+                    "containerId": "casePriorityHead",
+                    "containerContent": "Karl’s priorities and concerns:"
+                },
+                {
+                    "containerId": "casePriFamily",
+                    "containerContent": "Doesn’t want to be a burden to his family"
+                },
+                {
+                    "containerId": "casePriTech",
+                    "containerContent": "Not familiar with the Internet, computers, new technology"
+                },
+                {
+                    "containerId": "casePriTime",
+                    "containerContent": "Wants ample time for family and hobbies"
+                },
+                {
+                    "containerId": "casePriTrans",
+                    "containerContent": "Has to use public transportation which can be challenging"
+                },
+                {
+                    "containerId": "caseNeedHead",
+                    "containerContent": "How the Homechoice Claria APD system addressed Karl’s needs:"
+                },
+                {
+                    "containerId": "caseNeedFlex",
+                    "containerContent": "Home-based, flexible therapy and treatment schedule alleviates transportation concerns and allows him time to pursue hobbies"
+                },
+                {
+                    "containerId": "caseNeedUser",
+                    "containerContent": "User-friendly <span class=\"bannerBold\">Sharesource</span> platform further simplifies treatment with automatic data transmission<sup>†</sup>"
+                },
+                {
+                    "containerId": "caseNeedDevice",
+                    "containerContent": "Device programs can be adjusted via the <span class=\"bannerBold\">Sharesource</span> platform by his nephrologist"
+                },
+                {
+                    "containerId": "caseNeedAccess",
+                    "containerContent": "24/7 access to a technical service helpline further boosts his confidence<sup>‡</sup>"
+                },
+                {
+                    "containerId": "caseIssueHead",
+                    "containerContent": "An issue arises:"
+                },
+                {
+                    "containerId": "caseIssueContent",
+                    "containerContent": "Karl’s nurse discovers <a onClick=\"openPopup('redFlagPop');\">red flags</a> after logging into the <span class=\"bannerBold\">Sharesource</span> platform to <a onClick=\"openPopup('reviewTreatPop');\">review his treatment data:</a> flag indicates Karl finished PD therapy early and performed less cycles than prescribed. She asks that he come in for a checkup to ensure no further issues have arisen."
+                },
+                {
+                    "containerId": "caseResolveHead",
+                    "containerContent": "How Karl’s issue is resolved:"
+                },
+                {
+                    "containerId": "redFlagHead",
+                    "containerContent": "View red flags"
+                },
+                {
+                    "containerId": "reviewTreatHead",
+                    "containerContent": "Review treatment data"
+                },
+                {
+                    "containerId": "deviceProgHead",
+                    "containerContent": "Device program change"
+                },
+                {
+                    "containerId": "caseResolveContent1a",
+                    "containerContent": "At his appointment, Karl’s nephrologist reviews Karl and low day time ultrafiltration observed in <span class=\"bannerBold\">Sharesource</span> records. For therapy adequacy he prescribes <span class=\"bannerBold\">Extraneal</span> (icodextrin). The <a onClick=\"openPopup('deviceProgPop');\">device program change is made remotely</a> via the <span class=\"bannerBold\">Sharesource</span> platform, so it’s ready for Karl’s next therapy session."
+                },
+                {
+                    "containerId": "caseResolveContent2",
+                    "containerContent": "Karl feels supported by the clinical staff in their ability to proactively address his needs and he feels more confident in his ability to stay on PD."
+                },
+                {
+                    "containerId": "refCaseStudy1",
+                    "containerContent": "* Hypothetical case study"
+                },
+                {
+                    "containerId": "refCaseStudy2",
+                    "containerContent": "† After a treatment, the next time the patient powers the machine, the treatment data from the dialysis device automatically uploads to the Sharesource portal and is available for viewing.  The time taken will vary, depending on connection speeds and the amount of information to be transferred."
+                },
+                {
+                    "containerId": "refCaseStudy3",
+                    "containerContent": "‡ Contact your Baxter representative to learn if 24-hour technical service is available in your market."
+                }
+            ]
+        },
+        {
+            "pageId": "summary1",
+            "containers": [
+                {
+                    "containerId": "smBannerTitle",
+                    "containerContent": "New <span class=\"bannerBold\">Homechoice Claria</span> APD System from Baxter"
+                },
+                {
+                    "containerId": "lgBannerTitle",
+                    "containerContent": "Homechoice Claria APD system<br/>with the Sharesource platform"
+                },
+                {
+                    "containerId": "benefits",
+                    "containerContent": "BENEFITS"
+                },
+                {
+                    "containerId": "clinicBenefitHead",
+                    "containerContent": "Clinic Benefit"
+                },
+                {
+                    "containerId": "benefitEnable",
+                    "containerContent": "Enables remote patient monitoring and device program changes"
+                },
+                {
+                    "containerId": "benefitIncrease",
+                    "containerContent": "May increase confidence to prescribe APD to more patients"
+                },
+                {
+                    "containerId": "patBenefitHead",
+                    "containerContent": "Patient Benefit"
+                },
+                {
+                    "containerId": "patBenefit",
+                    "containerContent": "May allow more patients to receive benefits of APD therapy"
+                }
+
+            ]
+        },
+        {
+            "pageId": "summary2",
+            "containers": [
+                {
+                    "containerId": "smBannerTitle",
+                    "containerContent": "Service & Support"
+                },
+                {
+                    "containerId": "lgBannerTitle",
+                    "containerContent": "Here for you.<br/> Here for your patients."
+                },
+                {
+                    "containerId": "supportHead",
+                    "containerContent": "The support patients need to succeed*"
+                },
+                {
+                    "containerId": "deliver",
+                    "containerContent": "Delivery & Inventory Services"
+                },
+                {
+                    "containerId": "support",
+                    "containerContent": "On-Call Support"
+                },
+                {
+                    "containerId": "swap",
+                    "containerContent": "SWAP Program"
+                },
+                {
+                    "containerId": "train",
+                    "containerContent": "Training Programs"
+                },
+                {
+                    "containerId": "club",
+                    "containerContent": "Baxter Travel Club"
+                },
+                {
+                    "containerId": "teamDesignedHead",
+                    "containerContent": "A team designed around you*"
+                },
+                {
+                    "containerId": "medicalItem",
+                    "containerContent": "Medical Support & Education"
+                },
+                {
+                    "containerId": "clinicalItem",
+                    "containerContent": "Clinical PD Consulting"
+                },
+                {
+                    "containerId": "summaryNote",
+                    "containerContent": "*Contact your local Baxter representative to learn which services are available in your market"
+                }
+            ]
+        },
+        {
+            "pageId": "why1",
+            "containers": [
+                {
+                    "containerId": "smBannerTitle",
+                    "containerContent": "Combination for Success"
+                },
+                {
+                    "containerId": "lgBannerTitle",
+                    "containerContent": "Four reasons to rely on Baxter PD.<br/>One comprehensive portfolio."
+                },
+                {
+                    "containerId": "langItem",
+                    "containerContent": "41 languages"
+                },
+                {
+                    "containerId": "pedItem",
+                    "containerContent": "Pediatric capability"
+                },
+                {
+                    "containerId": "visItem",
+                    "containerContent": "Improved display visibility"
+                },
+                {
+                    "containerId": "commItem",
+                    "containerContent": "Exclusive 2-way communication"
+                },
+                {
+                    "containerId": "accessItem",
+                    "containerContent": "Remote access to patient data"
+                },
+                {
+                    "containerId": "deviceItem",
+                    "containerContent": "Proactive device program management"
+                },
+                {
+                    "containerId": "techItem",
+                    "containerContent": "Remote technical service and firmware upgrades"
+                },
+                {
+                    "containerId": "supplyItem",
+                    "containerContent": "Integrated supply ordering*"
+                },
+                {
+                    "containerId": "lowItem",
+                    "containerContent": "Only non-glucose solutions and low glucose therapy combinations"
+                },
+                {
+                    "containerId": "longItem",
+                    "containerContent": "Only non-glucose solution for the long dwell"
+                },
+                {
+                    "containerId": "shortItem",
+                    "containerContent": "Only optimal solution for the short dwell"
+                },
+                {
+                    "containerId": "comfortItem",
+                    "containerContent": "Only PD solution proven to improve patient comfort"
+                },
+                {
+                    "containerId": "expertItem",
+                    "containerContent": "With our comprehensive service and support, you and your patients<br/>have access to a network of knowledgeable Baxter experts at every<br/>therapy touchpoint"
+                },
+                {
+                    "containerId": "refCaseStudy1",
+                    "containerContent": "*Available within customer service portal, which is not available in all markets."
+                },
+                {
+                    "containerId": "refCaseStudy2",
+                    "containerContent": "† Not all solutions are available in all markets."
+                }
+
+            ]
+        },
+        {
+            "pageId": "why2",
+            "containers": [
+                {
+                    "containerId": "smBannerTitle",
+                    "containerContent": "Combination for Success"
+                },
+                {
+                    "containerId": "lgBannerTitle",
+                    "containerContent": "Four reasons to rely on Baxter PD.<br/>One comprehensive portfolio."
+                },
+                {
+                    "containerId": "commItem",
+                    "containerContent": "Exclusive 2-way communication"
+                },
+                {
+                    "containerId": "accessItem",
+                    "containerContent": "Remote access to patient data"
+                },
+                {
+                    "containerId": "deviceItem",
+                    "containerContent": "Proactive device program management"
+                },
+                {
+                    "containerId": "techItem",
+                    "containerContent": "Remote technical service and firmware upgrades"
+                },
+                {
+                    "containerId": "supplyItem",
+                    "containerContent": "Integrated supply ordering*"
+                },
+                {
+                    "containerId": "refCaseStudy1",
+                    "containerContent": "* Available within customer service portal, which is not available in all markets."
+                },
+                {
+                    "containerId": "refCaseStudy2",
+                    "containerContent": "† Not all solutions are available in all markets."
+                }
+            ]
+        },
+        {
+            "pageId": "why3",
+            "containers": [
+                {
+                    "containerId": "smBannerTitle",
+                    "containerContent": "Combination for Success"
+                },
+                {
+                    "containerId": "lgBannerTitle",
+                    "containerContent": "Four reasons to rely on Baxter PD.<br/>One comprehensive portfolio."
+                },
+                {
+                    "containerId": "lowItem",
+                    "containerContent": "Only non-glucose solution and low glucose therapy combinations"
+                },
+                {
+                    "containerId": "longItem",
+                    "containerContent": "Only non-glucose solution for the long dwell"
+                },
+                {
+                    "containerId": "shortItem",
+                    "containerContent": "Only non-glucose solution for the short dwell"
+                },
+                {
+                    "containerId": "comfortItem",
+                    "containerContent": "Only PD solution proven to improve patient comfort"
+                },
+                {
+                    "containerId": "refCaseStudy1",
+                    "containerContent": "*Available within customer service portal, which is not available in all markets."
+                },
+                {
+                    "containerId": "refCaseStudy2",
+                    "containerContent": "† Not all solutions are available in all markets."
+                }
+            ]
+        },
+        {
+            "pageId": "why4",
+            "containers": [
+                {
+                    "containerId": "smBannerTitle",
+                    "containerContent": "Combination for Success"
+                },
+                {
+                    "containerId": "lgBannerTitle",
+                    "containerContent": "Four reasons to rely on Baxter PD.<br/>One comprehensive portfolio."
+                },
+                {
+                    "containerId": "expertItem",
+                    "containerContent": "With our comprehensive service and support, you and your patients<br/>have access to a network of knowledgeable Baxter experts at every<br/>therapy touchpoint"
+                },
+                {
+                    "containerId": "refCaseStudy1",
+                    "containerContent": "*Available within customer service portal, which is not available in all markets."
+                },
+                {
+                    "containerId": "refCaseStudy2",
+                    "containerContent": "† Not all solutions are available in all markets."
+                }
+            ]
+        },
+        {
+            "pageId": "prescribe1",
+            "containers": [
+                {
+                    "containerId": "prescribeHead",
+                    "containerContent": "PRESCRIBING INFORMATION"
+                },
+                {
+                    "containerId": "prescribeLink",
+                    "containerContent": "<b>Click to view prescribing information.</b>"
+                }
+            ]
+        },
+        {
+            "pageId": "reference1",
+            "containers": [
+                {
+                    "containerId": "referenceHead",
+                    "containerContent": "REFERENCES AND CITATIONS"
+                },
+                {
+                    "containerId": "referenceLink1",
+                    "containerContent": "1 Data on file. Baxter International Inc., Deerfield, IL."
+                },
+                {
+                    "containerId": "referenceLink2",
+                    "containerContent": "2 Davies SJ, Woodrow G, Donovan K, et al. Icodextrin improves the fluid status of peritoneal dialysis patients: results of a double-blind randomized controlled trial. <i>J Am Soc Nephrol</i>. 2003;14(9):2338-2344."
+                },
+                {
+                    "containerId": "referenceLink3",
+                    "containerContent": "3 Paniagua R, Ventura MD, Avila-Diaz M, et al. Icodextrin improves metabolic and fluid management in high and high-average transport diabetic patients. <i>Perit Dial Int.</i> 2009;29(4):422-432."
+                },
+                {
+                    "containerId": "referenceLink4",
+                    "containerContent": "4 Bro S, Bjorner JB, Tofte-Jensen P, et al. A prospective, randomized multicenter study comparing APD and CAPD treatment. <i>Perit Dial Int.</i> 1999;19:526-533."
+                },
+                {
+                    "containerId": "referenceLink5",
+                    "containerContent": "5 Mactier RA et al. Bicarbonate and bicarbonate/lactate peritoneal dialysis solutions for the treatment of infusion pain. <i>Kidney Int.</i> 1998;53:1061-1067."
+                },
+                {
+                    "containerId": "brandFoot",
+                    "containerContent": "Baxter, Dianeal, Extraneal, Nutrineal, Physioneal, Homechoice, Homechoice Claria and Sharesource are trademarks of Baxter International Inc."
+                },
+                {
+                    "containerId": "versionNum",
+                    "containerContent": "EUMP/186/15-0005 March 2015"
+                },
+                {
+                    "containerId": "baxterLink",
+                    "containerContent": "www.baxter.com"
+                },
+                {
+                    "containerId": "baxterAddress1",
+                    "containerContent": "Baxter International Inc."
+                },
+                {
+                    "containerId": "baxterAddress2",
+                    "containerContent": "One Baxter Parkway"
+                },
+                {
+                    "containerId": "baxterAddress3",
+                    "containerContent": "Deerfield, IL 60015"
+                }
+            ]
+        }
+
+    ]
 }
